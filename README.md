@@ -1,5 +1,5 @@
-# Pick Up Basketball
-A Simple Pick Up Basketball App for SJSU (made for iOS)
+# Pick Up Basketball Application
+(for iOS)
 
 ---
 
