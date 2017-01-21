@@ -1,0 +1,6 @@
+framework module Pods_PickUp_Basketball {
+  umbrella header "Pods-PickUp Basketball-umbrella.h"
+
+  export *
+  module * { export * }
+}

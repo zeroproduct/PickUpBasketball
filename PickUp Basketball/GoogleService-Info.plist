@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>151852425536-es1qoat79se421009vhusgojvsr0ffs7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.151852425536-es1qoat79se421009vhusgojvsr0ffs7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlOAe1g0Yit__vIHMygtIc3HViK0kzgbk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>151852425536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.viral-labs.PickUp-Basketball</string>
+	<key>PROJECT_ID</key>
+	<string>pick-up-basketball-new</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pick-up-basketball-new.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:151852425536:ios:47e84983cbf477ab</string>
+	<key>DATABASE_URL</key>
+	<string>https://pick-up-basketball-new.firebaseio.com</string>
+</dict>
+</plist>
